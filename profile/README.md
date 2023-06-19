@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Set of provider, package and object classes for javascript representation of Sui Move smart contracts.
 
 <!--
 
